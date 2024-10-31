@@ -1,11 +1,8 @@
 ## 🩵2da00's GITHUB
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlekdud0102)](https://solved.ac/dlekdud0102)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdayoung&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdayoung&hide=stars&show_icons=true&theme=transpaerent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdayoung&layout=compact)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlekdud0102)](https://solved.ac/dlekdud0102)
 
 ### 💪Studying
 ![java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
